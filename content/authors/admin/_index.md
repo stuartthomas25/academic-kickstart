@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Stuart Thomas
 
 # Username (this should match the folder name)
 authors:
@@ -10,55 +10,52 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Student in Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: William & Mary
+  url: "https://www.wm.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Hi."
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Physics <em class="fas fa-atom fa-fw"> </em>
+- Fencing <em class="fas fa-jedi fa-fw"> </em>
+- Folk Music <em class="fas fa-guitar fa-fw"> </em>
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: BS in Physics
+    institution: William & Mary
+    year: 2021
+  - course: International Baccalaureate Diploma Programme
+    institution: Winter Park High School
+    year: 2017
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: instagram 
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://instagram.com/stuart.n.thomas
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/stuartthomas25
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/stuartthomas25/
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.online/@stuartthomas
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/828248/stuartthomas25
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:stuartthomas25@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Stuart. I am an undergraduate student at [William & Mary](http://www.wm.edu/) majoring in physics and minoring in math. My research focuses on theoretical condensed matter, specifically Majorana fermions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I love all things music (check out some of [my favorite albums](http://files.stuartthomas.us/albums/)) and serve as the president of the [William & Mary Fencing Club](https://fencing.blogs.wm.edu/).<a rel="me" href="https://mastodon.online/@stuartthomas"></a>

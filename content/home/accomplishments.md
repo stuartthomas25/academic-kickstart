@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,41 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "William & Mary/Stamps Organization"
+  organization_url = ""
+  title = "1693/Stamps Scholarship"
+  url = "https://www.wm.edu/as/1693scholars/"
+  certificate_url = ""
+  date_start = "2017-08-27"
   date_end = ""
-  description = ""
+  description = " National merit scholarship providing full in-state tuition, room and board; $5000 research stipend"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "DAAD Germany"
+  organization_url = "https://www.daad.org/en/"
+  title = "RISE Scholarship"
+  url = "https://www.daad.de/rise/en/"
+  date_start = "2018-02-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Funding to perform research in Germany for a summer <emph>(did not accept)</emph>"
+
+[[item]]
+  organization = "William & Mary Physics Department"
+  organization_url = "http://www.wm.edu/as/physics/"
+  title = "E.G. Clark Memorial Scholarship"
+  url = "https://www.wm.edu/as/physics/undergrad/bor-undergrad-resources/awards/index.php"
+  certificate_url = ""
+  date_start = "2020-04-25"
+  date_end = ""
+  description = "An annual scholarship to a rising senior, with a concentration in physics, who has demonstrated an outstanding aptitude for the study of physics with two letters of recommnedation."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "William & Mary"
+  organization_url = "https://www.wm.edu/"
+  title = "Dean's List"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2017-08-23"
+  date_end = "2020-05-03"
   description = ""
 
 +++
